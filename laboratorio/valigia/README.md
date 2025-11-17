@@ -2,7 +2,7 @@
 
 - luce
 - mini computer
-- (corkino controller)[https://www.gabrielavelitch.com/pages/projects/corkino.html]
+- [corkino controller](https://www.gabrielavelitch.com/pages/projects/corkino.html)
 - mouse
 - tastiera
 - schermo
