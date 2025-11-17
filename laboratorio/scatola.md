@@ -1,4 +1,4 @@
-SCATOLA
+# SCATOLA
 
 Dentro la scatola:
 - luce
