@@ -1,0 +1,6 @@
+Caratteri
+
+
+- didascalico
+- erudito
+- improvvisativo
