@@ -1,6 +1,6 @@
 # DATABASE
 
-- spazi 
-- testi
-- strumenti (timbri)
+- spazi (atmos, suono globale)
+- testi (eccitatore)
+- strumenti (risuonatore)
 - 
