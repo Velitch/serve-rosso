@@ -1,0 +1,1 @@
+- amplificatore superiore o uguale a 4.1 canali mono
