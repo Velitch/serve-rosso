@@ -10,3 +10,5 @@
 - zoom h6 (scheda audio/microfoni)
 - hub ethernet
 - hub usb
+- amplificatore superiore o uguale 4.1 canali mono
+- 
