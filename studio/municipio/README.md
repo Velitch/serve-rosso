@@ -1,6 +1,6 @@
 # DATABASE
 
-- spazi
+- spazi 
 - testi
-- strumenti
+- strumenti (timbri)
 - 
