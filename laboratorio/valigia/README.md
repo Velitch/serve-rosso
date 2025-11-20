@@ -1,7 +1,7 @@
 # VALIGIA
 
 - luce
-- [bmax b1 mini computer](https://www.ebay.it/itm/266956117863)
+- [bmax b1 mini computer](https://it.bmaxit.com/MaxMini-B1-Plus-pd745582388.html)
 - [corkino controller](https://www.gabrielavelitch.com/pages/projects/corkino.html)
 - mouse
 - tastiera
